@@ -54,11 +54,13 @@ h5{
     text-align: left;
 }
 body{
-   background-image: url(./img4.jpg);
+   
+    background-image: url(./img4.jpg);
     background-position: center left;
     background-repeat: no-repeat;
     width: 1300px;
     height: 500px;
+    
 }
 button{
   margin: 0px;
